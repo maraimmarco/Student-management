@@ -7,7 +7,7 @@ package project;
 
 /**
  *
- * @author Abanob
+ * @author Mariam
  */
 public class DLinkedList {
     static Node Head = null;
