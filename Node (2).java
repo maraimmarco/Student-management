@@ -7,7 +7,7 @@ package project;
 
 /**
  *
- * @author Abanob
+ * @author Mariam
  */
 public class Node {
     public int ID;
